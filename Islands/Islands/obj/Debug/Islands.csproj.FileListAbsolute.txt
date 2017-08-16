@@ -1,0 +1,6 @@
+F:\Islands\Islands\bin\Debug\Islands.exe.config
+F:\Islands\Islands\bin\Debug\Islands.exe
+F:\Islands\Islands\bin\Debug\Islands.pdb
+F:\Islands\Islands\obj\Debug\Islands.csprojResolveAssemblyReference.cache
+F:\Islands\Islands\obj\Debug\Islands.exe
+F:\Islands\Islands\obj\Debug\Islands.pdb

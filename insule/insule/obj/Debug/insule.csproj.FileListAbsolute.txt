@@ -1,0 +1,6 @@
+F:\insule\insule\bin\Debug\insule.exe.config
+F:\insule\insule\bin\Debug\insule.exe
+F:\insule\insule\bin\Debug\insule.pdb
+F:\insule\insule\obj\Debug\insule.csprojResolveAssemblyReference.cache
+F:\insule\insule\obj\Debug\insule.exe
+F:\insule\insule\obj\Debug\insule.pdb
